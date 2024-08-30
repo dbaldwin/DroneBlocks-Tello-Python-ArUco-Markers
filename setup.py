@@ -10,7 +10,7 @@ setup(
     description='Control Tello with Python, OpenCV, ArUco Markers',
     install_requires = [
         'opencv-python==4.3.0.36',
-        'opencv-contrib-python==4.3.0.36'
+        'opencv-contrib-python==4.8.1.78'
     ]
 
 )
